@@ -1,0 +1,1 @@
+web:sl setup.sh && streamlit run temp.py
